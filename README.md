@@ -2,6 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zoxilsi&label=Profile%20Views&color=blue&style=flat)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="50px"> 
+</p>
+
 🚀 **Aspiring Full-Stack Developer | MCA Student at RIT Kottayam**  
 💻 Passionate about **Web Development, Open Source, and System Administration**  
 🎯 Currently exploring **JavaScript, Node.js, React, and Cloud Computing**
@@ -9,6 +13,14 @@
 ---
 
 ### 🔧 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50px"> 
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50px"> 
+  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="50px"> 
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50px"> 
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50px"> 
+</p>
 
 **Frontend:**
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +46,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zoxilsi&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoxilsi&theme=tokyonight" alt="GitHub Streak" width="400px">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=zoxilsi&theme=tokyonight" alt="GitHub Streak" width="400px">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Mp4hQy51LjY6A/giphy.gif" width="200px"> 
 </p>
 
 ---
