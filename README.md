@@ -61,16 +61,16 @@
 
 <p align="center">
   <a href="https://github.com/zoxilsi">
-    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120px">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120px">
   </a>
   <a href="https://gitlab.com/zoxilsi">
-    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120px">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="120px">
   </a>
   <a href="https://www.linkedin.com/in/zoxilsi">
-    <img src="https://media.giphy.com/media/hULcbz0k1DYzHjG6rO/giphy.gif" width="120px">
+    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120px">
   </a>
   <a href="https://twitter.com/zoxilsi">
-    <img src="https://media.giphy.com/media/3o7aD5pPL5wWEVRFYU/giphy.gif" width="120px">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120px">
   </a>
 </p>
 
