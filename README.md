@@ -2,13 +2,35 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zoxilsi&label=Profile%20Views&color=blue&style=flat)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
+</p>
+
 🚀 **Aspiring Full-Stack Developer | MCA Student at RIT Kottayam**  
 💻 Passionate about **Web Development, Open Source, and System Administration**  
 🎯 Currently exploring **JavaScript, Node.js, React, and Cloud Computing**
 
 ---
 
+### 🔥 Special Features
+
+- 🌟 **Enthusiastic learner & problem solver**
+- 🎨 **Creative Frontend Developer** with an eye for UI/UX
+- ⚡ **Fast & Adaptive Backend Developer** with Node.js & Express.js
+- 🌍 **Exploring Cloud Computing & DevOps**
+- 🤝 *Open to collaborations & exciting projects!*
+
+---
+
 ### 🔧 Tech Stack & Skills
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="50px"> 
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50px"> 
+  <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="50px"> 
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50px"> 
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="50px"> 
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -38,10 +60,22 @@
 - 📫 How to reach me? Feel free to connect via social media:
 
 <p align="center">
-  <a href="https://github.com/zoxilsi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://gitlab.com/zoxilsi"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/zoxilsi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/zoxilsi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://github.com/zoxilsi">
+    <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120px">
+  </a>
+  <a href="https://gitlab.com/zoxilsi">
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="120px">
+  </a>
+  <a href="https://www.linkedin.com/in/zoxilsi">
+    <img src="https://media.giphy.com/media/hULcbz0k1DYzHjG6rO/giphy.gif" width="120px">
+  </a>
+  <a href="https://twitter.com/zoxilsi">
+    <img src="https://media.giphy.com/media/3o7aD5pPL5wWEVRFYU/giphy.gif" width="120px">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200px">
 </p>
 
 ---
