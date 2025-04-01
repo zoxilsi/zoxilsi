@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Mp4hQy51LjY6A/giphy.gif" width="200px"> 
+  <img src="https://github.com/zoxilsi/zoxilsi/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
 </p>
 
 ---
